@@ -1,7 +1,7 @@
 {
   "name": "postcss-px2rem-dpr",
   "description": "Postcss version of px2rem-dpr",
-  "version": "0.3.1",
+  "version": "0.3.2",
   "homepage": "https://github.com/zuibunan/px2rem-postcss",
   "author": "jackstraw <jackstraw.liu@gmail.com>",
   "repository": {
