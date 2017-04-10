@@ -1,16 +1,16 @@
 {
-  "name": "postcss-px2rem",
-  "description": "Postcss version of px2rem",
-  "version": "0.3.0",
-  "homepage": "https://github.com/songsiqi/px2rem-postcss",
-  "author": "songsiqi <songsiqi2006@126.com>",
+  "name": "postcss-px2rem-dpr",
+  "description": "Postcss version of px2rem-dpr",
+  "version": "0.3.1",
+  "homepage": "https://github.com/zuibunan/px2rem-postcss",
+  "author": "jackstraw <jackstraw.liu@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "git@github.com:songsiqi/px2rem-postcss.git"
+    "url": "git@github.com:zuibunan/px2rem-postcss.git"
   },
   "dependencies": {
     "postcss": "^5.0.0",
-    "px2rem": "~0.5.0"
+    "px2rem-dpr": "~0.6.0"
   },
   "devDependencies": {
     "mocha": "^2.1.0",
